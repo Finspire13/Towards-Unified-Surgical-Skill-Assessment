@@ -41,33 +41,6 @@ Trained models and Tensorboard logs will be saved in the `result` folder.
 
 Our trained models and logs are provided in the `pre_result` folder.
 
-
-
-
-
-
-
-
-## Output
-
-Results will be saved in a folder named with the `naming` in the config file. 
-
-This output folder will include following sub-directories:
-
-`logs` : A Tensorboard logging file and an numpy logging file.
-
-`models`: Trained models.
-
-`pos_prob`: Probability maps for instruments.
-
-`pos_mask`: Segmentation masks for instruments.
-
-`neg_prob`: Probability maps for non-instruments.
-
-`neg_mask`: Segmentation masks for non-instruments.
-
-## Trained Models
-
 ## Citation
 
 TO DO
