@@ -13,7 +13,7 @@ Codes for ["Towards Unified Surgical Skill Assessment"](Paper to be uploaded) (C
 
  1. Complete [the access form of the JIGSAWS dataset](https://cs.jhu.edu/~los/jigsaws/info.php) and get the permission.
  2. Download our processed data for JIGSAWS from [Baidu Yun]() (PIN:).
- 3. Join the zip files by `zip --fix {} --out {}` and unzip.
+ 3. Unzip the files by `zip --fix data.zip --out data_full.zip && unzip data_full.zip`.
  5. Put the data into the parent directory of the codes.
  6. The data includes following sub-directories:
 
@@ -35,8 +35,11 @@ As for the clinical dataset used in the paper, it might be released later if app
 
 Simply run `python3 main.py --config some_config_file.json` .
 
-The [config files]() for our full model under the JIGSAWS 4-fold cross-validation setting are provided.
+The config files for our full model under the JIGSAWS 4-fold cross-validation setting are provided in the `configs` folder.
 
+Trained models and Tensorboard logs will be saved in the `result` folder.
+
+Our trained models and logs are provided in the `pre_result` folder.
 
 
 
