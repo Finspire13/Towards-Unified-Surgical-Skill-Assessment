@@ -2,7 +2,7 @@
 
 Codes for ["Towards Unified Surgical Skill Assessment"](Paper to be uploaded) (CVPR 2021).
 
-![ ](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment/blob/main/overview.pdf)
+![ ](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment/blob/main/overview.png)
 
 ## Setup
 
