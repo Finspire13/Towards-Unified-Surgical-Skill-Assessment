@@ -12,9 +12,10 @@ Codes for ["Towards Unified Surgical Skill Assessment"](Paper to be uploaded) (C
 ## Data
 
  1. Complete [the access form of the JIGSAWS dataset](https://cs.jhu.edu/~los/jigsaws/info.php) and get the permission.
- 2. Download our processed data for JIGSAWS from [Baidu Yun]() (PIN:) or [Google Drive]().
- 3. Unzip the file and put into the parent directory of the codes.
- 4. The data includes following sub-directories:
+ 2. Download our processed data for JIGSAWS from [Baidu Yun]() (PIN:).
+ 3. Join the data chunks by `cat DATA* > data.zip`
+ 4. Unzip `data.zip` and put the data into the parent directory of the codes.
+ 5. The data includes following sub-directories:
 
 `video_encoded`  : Surgical videos after pre-processing.
 
