@@ -1,6 +1,6 @@
 # Towards-Unified-Surgical-Skill-Assessment
 
-Codes for ["Towards Unified Surgical Skill Assessment"](Paper to be uploaded) (CVPR 2021).
+Codes for [Towards Unified Surgical Skill Assessment](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) (CVPR 2021).
 
 ![ ](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment/blob/main/overview.png)
 
