@@ -100,7 +100,7 @@ class Trainer:
                         if result_dir:
                             logger.add_scalar('Train-Loss-CON-P{}'.format(i + 1), temp_ctr_loss.item(), step)
 
-                output = self.model(feature_list)
+                output = self.model(feature_list) # [TO BE IMPROVED] efficiency
 
                 mse_loss = 0
                 for i in range(output[1].shape[2]):
