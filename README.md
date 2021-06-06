@@ -12,7 +12,7 @@ Codes for [Towards Unified Surgical Skill Assessment](http://www.vie.group/media
 ## Data
 
  1. Complete [the access form of the JIGSAWS dataset](https://cs.jhu.edu/~los/jigsaws/info.php) and get the permission.
- 2. Download our processed data for JIGSAWS from [Baidu Yun](https://pan.baidu.com/s/15l7VgVAdOfHSfGGp33cU8A) (PIN:sa67) or Google Drive (TO DO).
+ 2. Download our processed data for JIGSAWS from [Baidu Yun](https://pan.baidu.com/s/15l7VgVAdOfHSfGGp33cU8A) (PIN:sa67) or [Google Drive](https://drive.google.com/drive/folders/1fTDE764HVOAxUlaxWWc9fe66qSGoPxDi?usp=sharing).
  3. Unzip the files by `zip --fix data.zip --out data_full.zip && unzip data_full.zip`.
  4. Put the data into the parent directory of the codes.
  5. The data includes following sub-directories:
