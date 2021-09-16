@@ -43,7 +43,13 @@ Our trained models and logs are provided in the `pre_result` folder.
 
 ## Citation
 
-TO DO
+@inproceedings{liu2021towards,
+  title={Towards Unified Surgical Skill Assessment},
+  author={Liu, Daochang and Li, Qiyue and Jiang, Tingting and Wang, Yizhou and Miao, Rulin and Shan, Fei and Li, Ziyu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9522--9531},
+  year={2021}
+}
 
 ## License
 MIT
