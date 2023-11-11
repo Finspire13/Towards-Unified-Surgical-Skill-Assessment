@@ -2,6 +2,9 @@
 
 Codes for [Towards Unified Surgical Skill Assessment](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) (CVPR 2021).
 
+[Project Page](https://finspire13.github.io/CVPR21-Project-Page/)
+
+
 ![ ](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment/blob/main/overview.png)
 
 ## Setup
